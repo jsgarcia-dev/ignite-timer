@@ -41,3 +41,5 @@ export function NewCycleForm() {
     </FormContainer>
   )
 }
+
+export default NewCycleForm

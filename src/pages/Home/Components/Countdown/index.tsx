@@ -70,3 +70,5 @@ export function Countdown() {
     </CountdownContainer>
   )
 }
+
+export default Countdown
