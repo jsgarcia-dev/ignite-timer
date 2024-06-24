@@ -4,9 +4,7 @@ Ignite Timer é uma aplicação de cronômetro pomodoro construída com React, T
 
 <br>
 
-<a href="https://ignite-timer-ashy-kappa.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img alt="Deploy" src="https://img.shields.io/badge/deploy-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Deploy](https://img.shields.io/badge/deploy-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ignite-timer-ashy-kappa.vercel.app)
 
 ## Requisitos
 
