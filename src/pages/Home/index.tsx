@@ -5,8 +5,8 @@ import { FormProvider, useForm } from 'react-hook-form'
 import * as zod from 'zod'
 
 import { CyclesContext } from '../../contexts/CyclesContext'
-import { Countdown } from './components/Countdown'
-import { NewCycleForm } from './components/NewCycleForm'
+import { Countdown } from './components/Countdown/index'
+import { NewCycleForm } from './components/NewCycleForm/index'
 import {
   HomeContainer,
   StartCountdownButton,
