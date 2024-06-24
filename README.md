@@ -2,6 +2,12 @@
 
 Ignite Timer é uma aplicação de cronômetro pomodoro construída com React, TypeScript, Vite e Styled Components. Ela permite que os usuários iniciem um ciclo de foco, interrompam e reiniciem o ciclo, além de visualizar o histórico de ciclos concluídos.
 
+<br>
+
+<a href="https://ignite-timer-ashy-kappa.vercel.app" target="_blank">
+  <img alt="Deploy" src="https://img.shields.io/badge/deploy-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 ## Requisitos
 
 - Node.js (versão 18 ou superior)
